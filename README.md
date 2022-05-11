@@ -1,6 +1,6 @@
 # FetchAPI-Criptomonedas
 
-Buscador de los precios actuales de las criptomonedas.
+Buscador de los precios actuales de las criptomonedas usando una API.
 
 * Html.
 * Css.
